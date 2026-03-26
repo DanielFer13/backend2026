@@ -8,9 +8,9 @@
 <body>
  <h1>Form - 18/03/26</h1>  
  <form method="post" action="recebe.php">
-    <b>login<b><input type="text" id="login"  name="login"><br>
+     login<input type="text" id="login"  name="login"><br>
     <br>
-    <b>senha<b><input type="password" id="senha" name="<b>senha<b>"><br>
+    senha<input type="password" id="senha" name="senha"><br>
     <br> 
        <input type="submit" value="Validar"> <br>
 
