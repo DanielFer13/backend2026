@@ -8,7 +8,8 @@
 <body>
  <h1>Form - 18/03/26</h1>  
  <form method="post" action="recebe.php">
-     login<input type="text" id="login"  name="login"><br>
+     login<input type="text" id="login"  name="login"><br> <!---- esse codigo todo seria para criar um formulario para o usuario colocar seu login e senha para acessar o site
+     !-->
     <br>
     senha<input type="password" id="senha" name="senha"><br>
     <br> 
